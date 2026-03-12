@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veda%20Gurram&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Veda%20Gurram&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Business%20Operations%20Associate&descAlignY=55&descSize=16"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -13,12 +13,9 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veda-gurram)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedagurram)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 <br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Vedagurram&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -32,10 +29,14 @@ class VedaGurram:
         self.name       = "Veda Gurram"
         self.username   = "Vedagurram"
         self.education  = "B.Tech – Computer & Communication Engineering @ MIT Manipal"
-        self.role       = "Developer"
-        self.learning   = ["Angular", "Flutter"]
-        self.hobbies    = ["Solving LeetCode problems", "Building ML models", "Open Source"]
-        self.fun_fact   = "I turn caffeine into code ☕"
+        self.role       = "Software Developer & Business Operations Associate"
+        self.current_work = [
+            "Built and launched an E-commerce website for GVT using Shopify",
+            "Managing inventory, sales, marketing and financial operations",
+            "Enhancing supply chain processes to improve efficiency"
+        ]
+        self.goal = "Become an entrepreneur with strong tech expertise and business acumen to disrupt industries"
+        self.fun_fact   = "I enjoy diving deep into how systems, markets and technology interact."
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -53,15 +54,8 @@ me.say_hi()
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-<!-- Frameworks -->
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <!-- ML / Data -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -71,7 +65,7 @@ me.say_hi()
 <!-- Databases & Tools -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -94,51 +88,13 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedagurram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedagurram&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedagurram&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vedagurram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedagurram&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 💡 What I'm Up To
 
-- 🔭 Currently working as a **Developer**
-- 🌱 Currently learning **Angular** and **Flutter**
-- ⚡ In my free time I solve problems on **LeetCode**
-- 🎯 2025 Goal — contribute to **Open Source** projects
-- 💬 Ask me about **Python, ML, OpenCV, Django, or SQL**
+- 💼 Managing GVT's **E-commerce platform** end-to-end
+- 🧠 Exploring how **technology and business strategy intersect**
+- 🔗 Improving **supply chain workflows and operational efficiency**
+- 📚 Learning from real-world **business and geopolitical case studies**
+- 🔭 Building projects that combine **technology, data and decision making**
 
 ---
 
